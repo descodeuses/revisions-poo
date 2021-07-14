@@ -9,5 +9,14 @@ _Dans le langage de votre choix, ayant la capacité à répondre au paradigme Or
 - Ajouter une métode à la classe Bus qui donne la capacité max de place assise, 50 par défaut
 
 
-Marcella en Python
+- Marcella en Python
+- Agnes en JavaScript
+- Olga en JavaScript
+- Wiam en JavaScript
+- Katherine ?
+- Louiza en JavaScript
 
+
+
+
+Révision des modules / import en python
