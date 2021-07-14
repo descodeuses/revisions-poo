@@ -13,8 +13,9 @@ _Dans le langage de votre choix, ayant la capacité à répondre au paradigme Or
 - Agnes en JavaScript
 - Olga en JavaScript
 - Wiam en JavaScript
+- Louiza en JavaScript/Python
 - Katherine ?
-- Louiza en JavaScript
+
 
 
 
