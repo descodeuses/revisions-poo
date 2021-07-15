@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisions_POO</title>
+</head>
+<body>
+    <script>
+        class Vehicule {
+            constructor(vitesse_max, kilometrage ) {
+                this.vitesse_max = vitesse_max;
+                this.kilometrage  = kilometrage ;
+            }
+        }
+        var myCar = new Vehicule(130, 100);
+        console.log(myCar.kilometrage);
+        class Bus extends Vehicule {
+            capacity(chair) {
+                console.log('The number of places  are '  + chair ); 
+            }
+        }
+        var myBus = new Bus(150 , 1200);
+        myBus.capacity(50);
+    </script>
+</body>
+</html>
